@@ -2,3 +2,9 @@ cryptography==42.0.8
 boto3==1.34.131
 mlflow==2.14.1
 psycopg2-binary==2.9.9
+# https://jupyterlab-contrib.github.io/extensions.html
+jupyterlab-git==0.50.1
+jupyterlab-github==4.0.0
+jupyterlab-spreadsheet-editor==0.7.1
+jupytext==1.16.2
+jupyter-archive==3.4.0
